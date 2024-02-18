@@ -1,4 +1,4 @@
-"""This is 'DoublyLinkedList Class' Asst."""
+"""This is 'DoublyLinkedList Class'."""
 
 
 class DLLNode:
