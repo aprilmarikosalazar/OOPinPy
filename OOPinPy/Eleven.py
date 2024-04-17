@@ -1,4 +1,4 @@
-"""This is main script for 'Air Quality Analyses' tool."""
+"""This is the main script for the 'Air Quality Analyses' tool."""
 
 
 import pgeocode
