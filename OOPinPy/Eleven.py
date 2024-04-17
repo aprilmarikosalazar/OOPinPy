@@ -1,4 +1,4 @@
-"""This is my submission for Final Assignment."""
+"""This is main script for 'Air Quality Analyses' tool."""
 
 
 import pgeocode
