@@ -1,5 +1,6 @@
-# Journey into PyProg
-### Welcome to my repo / Python portfolio! This exists because I want to document my educational journey learning Python programming.
-##### To facilitate this, I'm taking a course series taught by Professor Eric Reed, offered in three parts. It is an understatement to say that my learning process is both challenging and rewarding.
-###### For part 1, I learned "Object Oriented Programming Methods in Python" (titled OOPinPy). In 11 developments, you will find a program I built from scratch -- it's a tool to analyze air quality using Purple Air's database. Feel free to run it!
-###### For part 2, I'm learning "Intermediate Software Design in Python" (titled ISDinPy). In 11 developments, you can follow my progress as I build a fully working Artificial Neural Network from scratch!
+## Object-Oriented Programming Project in Python
+
+Hello! This repo exists to document the beginnings of my journey tinkering with Python.
+In 11 developments, you will find [this tool](https://github.com/aprilmarikosalazar/OOPinPy/blob/main/OOPinPy/Eleven.py) I built from scratch -- it analyzes air quality of whatever area you select (using Purple Air's database). Feel free to run it using Colab [here](https://github.com/aprilmarikosalazar/OOPinPy/blob/main/tool_airqualanalysis.ipynb).
+
+Acknowledgements: Of course, all the gratitude to [Eric Reed](https://github.com/csericreed) for never making me feel stupid.
